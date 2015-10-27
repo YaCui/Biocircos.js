@@ -1,3 +1,13 @@
+BioCircos.js has several licensing options available.
+
+Commercial License:
+This is the appropriate option if you are creating proprietary applications and you are not prepared to distribute and share the source code of your application under the GPL.
+if you wish to derive a commercial advantage by not releasing your application under an open source license, you must purchase an appropriate number of commercial licenses from BioCircos.js. By purchasing commercial licenses, you are no longer obligated to publish your source code.
+
+Open Source License:
+BioCircos.js is an avid supporter of open source software. This is the appropriate option if you are creating an open source application with a license compatible with the GNU GPL license v2.
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
