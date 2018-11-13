@@ -10,3 +10,5 @@ http://www.ncbi.nlm.nih.gov/pubmed/26819473
 
 Documentation:
 http://bioinfo.ibp.ac.cn/biocircos/document/index.html
+
+News: Biocircos2 will online soon!
