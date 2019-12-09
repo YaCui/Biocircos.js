@@ -13,4 +13,3 @@ http://bioinfo.ibp.ac.cn/biocircos/document/index.html
 
 News: Biocircos2 will online soon!
 
-Commercial License of BioCircos.js Please Contact: Ya Cui(cui_ya@163.com).
