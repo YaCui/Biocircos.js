@@ -13,16 +13,16 @@ http://bioinfo.ibp.ac.cn/biocircos/document/index.html
 
 
 ## Please find the new version of Biocircos (NG-Circos) below:
-## Input data and Getting started
-**(1) Input data of 21 modules can be found here:**
+**(1) NG-Circos (Biocircos2) website can be found here:**
+https://wlcb.oit.uci.edu/NG-Circos
+
+**(2) Input data of 21 modules can be found here:**
 https://wlcb.oit.uci.edu/modules/
 
-**(2) Getting started demo can be found here:**
+**(3) Getting started demo can be found here:**
 https://wlcb.oit.uci.edu/NG-Circos/static/html/NGCircos.html#getting-started
 
-**(3) Full documentation can be found here:**
+**(4) Full documentation can be found here:**
 https://wlcb.oit.uci.edu/NG-Circos/static/doc.html
 
-**(4) NG-Circos website can be found here:**
-https://wlcb.oit.uci.edu/NG-Circos
 
